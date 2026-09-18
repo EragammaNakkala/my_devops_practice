@@ -1,0 +1,15 @@
+File Permission Task
+
+
+Task Description:
+
+Create a file with .txt extension (/home/demo.txt). Change the permission set of that file, so that any user can read it, group can read/write & owner can read/write/execute it.
+
+Techstacks needs to be used : 
+
+Shell (AWS, Gitbash, WSL, Vbox)
+
+How do I submit my work?
+
+Push all your work files to GitHub (O/P screenshot images must).
+Submit your URLs in the portal.

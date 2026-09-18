@@ -1,0 +1,14 @@
+Task Description:
+
+Install docker on EC2 and explore the docker commands (docker images, containers, volumes, network)
+
+Techstacks needs to be used : 
+
+AWS EC2
+Docker
+
+How do I submit my work?
+
+Push all your work files to GitHub (O/P screenshot images must).
+Submit your URLs in the portal.
+
